@@ -1,0 +1,3 @@
+com\seleniumframework\pages\LoginPage.class
+com\seleniumframework\utility\BrowserFactory.class
+com\seleniumframework\testcases\LoginTestCRM.class
